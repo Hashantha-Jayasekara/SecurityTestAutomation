@@ -1,7 +1,7 @@
 # SecurityTestAutomation
 Security Testing With Selenium
-1.Download and install Java
-2.Download and install ZAP
+#1.Download and install Java
+#2.Download and install ZAP
 3.Run ZAP
 4.Download and install Tomcat
    -The latest one is best, but older ones will probably still work
